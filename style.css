@@ -1,0 +1,44 @@
+.card-deck {
+  display: flex;
+  justify-content: center;
+  background-image:url(images/background.png);
+}
+
+.carousel, p {
+  color: white;
+}
+
+.carousel, h5 {
+  color: white;
+}
+
+.card {
+  margin:3%;
+}
+
+.card p {
+  color: black;
+}
+
+.card h5 {
+  color: black;
+}
+
+
+body {
+  background-color: tan;}
+
+  nav{background-color: white;}
+
+  .grid {display: flex;}
+
+  .form {
+    margin: 10%;
+  }
+  .map {
+    margin-top: 10%;
+  }
+  footer {
+    text-align: center;
+    background-color: black;
+  }
